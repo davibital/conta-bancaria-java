@@ -1,18 +1,31 @@
-## Getting Started
+# Sistema de Contas Bancárias - Linguagem Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Se trata de simulação de um sistema de contas bancárias com as funcionalidades básicas de uma conta: sacar e depositar.
 
-## Folder Structure
+## Tecnologias
 
-The workspace contains two folders by default, where:
+- Linguagem Java (Paradigma de Orientação a Objetos)
+- Git 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Classes da aplicação
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Main
+    Classe principal que irá executar de fato a aplicação.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- ContaBancaria
+    Classe que contém os principais métodos de uma conta bancária (sacar e depositar) e o atributo que corresponde ao saldo.
+    Essa classe possui 4 subclasses que possuem os mesmos métodos da classe principal:
 
-## Dependency Management
+	- ContaCorrente
+	- ContaPoupanca
+	- ContaSalario
+	- ContaInvestimento
+		Essa classe possui um método específico que simula a realização de um investimento.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Autor
+
+- Davi Bittencourt (davibital) - Estudante do curso de Sistemas de Informação da UFS - [LinkedIn](www.linkedin.com/in/davibital) - [Instagram](www.instagram.com/_davialmeiida/)
+          
+                                                    **{Projeto feito para o curso Formação C/C++ Developer da DIO📚👨‍💻}**
+
+
