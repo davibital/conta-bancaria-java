@@ -29,6 +29,6 @@ Se trata de simulação de um sistema de contas bancárias com as funcionalidade
 
 - Davi Bittencourt (davibital) - Estudante do curso de Sistemas de Informação da UFS - [LinkedIn](www.linkedin.com/in/davibital) - [Instagram](www.instagram.com/_davialmeiida/)
 
-				**{Projeto feito para o curso Formação C/C++ Developer da DIO📚👨‍💻}**
+**				  {Projeto feito para o curso Formação C/C++ Developer da DIO📚👨‍💻}**
 
 
